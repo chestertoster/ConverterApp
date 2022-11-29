@@ -1,0 +1,40 @@
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.exe
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.deps.json
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.runtimeconfig.json
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.dll
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.pdb
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\PhysicValuesLib.dll
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\PhysicValuesLib.pdb
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.AssemblyReference.cache
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.ConverterForm.resources
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.GenerateResource.cache
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfoInputs.cache
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfo.cs
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CoreCompileInputs.cache
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CopyComplete
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.dll
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\refint\WindowsAPI.dll
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.pdb
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.genruntimeconfig.cache
+C:\Users\aslan\OneDrive\Рабочий стол\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\ref\WindowsAPI.dll
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.exe
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.deps.json
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.runtimeconfig.json
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.dll
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\WindowsAPI.pdb
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\PhysicValuesLib.dll
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\bin\Debug\net6.0-windows\PhysicValuesLib.pdb
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.AssemblyReference.cache
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.ConverterForm.resources
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.GenerateResource.cache
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfoInputs.cache
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.AssemblyInfo.cs
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.csproj.CopyComplete
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.dll
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\refint\WindowsAPI.dll
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.pdb
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\WindowsAPI.genruntimeconfig.cache
+C:\Users\Sk1mmer\Downloads\ConverterApp-main\ConverterApp\WindowsAPI\obj\Debug\net6.0-windows\ref\WindowsAPI.dll
