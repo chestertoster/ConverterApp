@@ -11,7 +11,7 @@
 > А также были внесены изменения в существующие классы: ConverterManager.cs, ConverterForm.cs
 ### Скриншоты работы программы:
 ![Скриншот 1](https://sun9-79.userapi.com/impg/BFDkPJTnjFgHEEOzGjgbwtkcmnCEIszkszZQPA/Dscw4ijEc9U.jpg?size=1001x234&quality=96&sign=1bf7853eb0a70384ffcd4767f72f72f6&type=album)
-![Скриншот 2](https://sun9-15.userapi.com/impg/ZEeJihL5ieEmz_p50p6Sp8O8iiFSaXxioNV0Fw/ZTo_LsVCdHk.jpg?size=998x235&quality=96&sign=9a3d1cdfcc3d3d80cff01c08d0315a45&type=album)
-![Скриншот 3](https://sun9-35.userapi.com/impg/mNuh2Z-73ASNSyf3GYtifTmrEa55K6gmb_bX2g/1KLGilcMLTY.jpg?size=1001x235&quality=96&sign=ee3b9f8738f73337015aa1423e035994&type=album)
-![Скриншот 4](https://sun9-40.userapi.com/impg/gSbPD3rYCMgLMp8b5vSV1C1RVcXFzAZL6VjVlg/Kd_PQI2QyCs.jpg?size=1001x232&quality=96&sign=fe3304f69bdc6143d2084d5b284c58d2&type=album)
-![Скриншот 5](https://sun9-78.userapi.com/impg/GNjH-vptDwrNrlJ7-mVFzHg5HVFm57qdroc6NQ/tjE-yQX12c8.jpg?size=1001x236&quality=96&sign=fa58b109313037902f992f2d5262927f&type=album)
+![Скриншот 2](https://sun7-16.userapi.com/impg/R8shn1Z0Yqq0LoXwetrYPOz4SlV5fYEMtvsmCw/qZ0dxs0NYhY.jpg?size=1006x234&quality=96&sign=138d6960b349e907281284e696b79435&type=album)
+![Скриншот 3](https://sun9-9.userapi.com/impg/g-JsWp3-pbCnlc1XIzr4cfChQUTbLsfKBnsmeA/HLhrgR4g_Bo.jpg?size=1003x232&quality=96&sign=9ddc0725606107473cd7e1bde1329f25&type=album)
+![Скриншот 4](https://sun9-54.userapi.com/impg/NvFJkhEQxrgWcKR1bbu6SNvU8zI8Yovx84GzCQ/bFVYYKtigLM.jpg?size=1003x232&quality=96&sign=6c84f8a8c450a317f0235d2bfffba3d3&type=album)
+![Скриншот 5](https://sun9-87.userapi.com/impg/_DjodhDoP1fBw8G65-sxjaZn0r1i5bzH7Z3mUw/3IP27-lo5rw.jpg?size=1004x234&quality=96&sign=3b2e5f0412332f1e41289a6e13c7dc77&type=album)
