@@ -7,7 +7,7 @@
 - **Frequency.cs** - Перевод из одной системы измерения частоты в другой.
 - **Time.cs** - Перевод из одной системы измерения времени в другую.
 - **Voltage.cs** - Перевод из одной системы измерения напряжения в другую.
-- **Weight.cs** - Перевод из одной системы измерения массы и веса в другую.
+- **Weight.cs** - Перевод из одной системы измерения массы в другую.
 > А также были внесены изменения в существующие классы: ConverterManager.cs, ConverterForm.cs
 ### Скриншоты работы программы:
 ![Скриншот 1](https://sun9-79.userapi.com/impg/BFDkPJTnjFgHEEOzGjgbwtkcmnCEIszkszZQPA/Dscw4ijEc9U.jpg?size=1001x234&quality=96&sign=1bf7853eb0a70384ffcd4767f72f72f6&type=album)
