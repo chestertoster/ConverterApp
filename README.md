@@ -10,7 +10,7 @@
 - **Weight.cs** - Перевод из одной системы измерения массы и веса в другую.
 > А также были внесены изменения в существующие классы: ConverterManager.cs, ConverterForm.cs
 ### Скриншоты работы программы:
-![Скриншот 1](![image](https://user-images.githubusercontent.com/116587690/204631368-61ff4224-bf94-4ce7-a9ed-eff7d48f3f10.png))
+![Скриншот 1](https://sun9-79.userapi.com/impg/BFDkPJTnjFgHEEOzGjgbwtkcmnCEIszkszZQPA/Dscw4ijEc9U.jpg?size=1001x234&quality=96&sign=1bf7853eb0a70384ffcd4767f72f72f6&type=album)
 ![Скриншот 2](https://sun9-15.userapi.com/impg/ZEeJihL5ieEmz_p50p6Sp8O8iiFSaXxioNV0Fw/ZTo_LsVCdHk.jpg?size=998x235&quality=96&sign=9a3d1cdfcc3d3d80cff01c08d0315a45&type=album)
 ![Скриншот 3](https://sun9-35.userapi.com/impg/mNuh2Z-73ASNSyf3GYtifTmrEa55K6gmb_bX2g/1KLGilcMLTY.jpg?size=1001x235&quality=96&sign=ee3b9f8738f73337015aa1423e035994&type=album)
 ![Скриншот 4](https://sun9-40.userapi.com/impg/gSbPD3rYCMgLMp8b5vSV1C1RVcXFzAZL6VjVlg/Kd_PQI2QyCs.jpg?size=1001x232&quality=96&sign=fe3304f69bdc6143d2084d5b284c58d2&type=album)
