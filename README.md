@@ -2,13 +2,13 @@
 ### Галичкин Дмитрий, ИСП-201.
 ***
 ### Описание функционала программы:
-##### PhysicValuesLib and Values:
+##### PhysicValuesLib/Values:
 - **Voltage.cs** - Перевод из одной системы измерения напряжения в другую.
 - **Frequency.cs** - Перевод из одной системы измерения частоты в другой.
-- **Time.cs** - Перевод из одной системы измерения времени в другую.
 - **Distance.cs** - Перевод из одной системы измерения расстояния в другую.
+- **Time.cs** - Перевод из одной системы измерения времени в другую.
 - **Weight.cs** - Перевод из одной системы измерения массы и веса в другую.
-> А также были добавлены некоторые изменения всуществующие классы: ConverterManager.cs, ConverterForm.cs
+> А также были внесены изменения в существующие классы: ConverterManager.cs, ConverterForm.cs
 ### Скриншоты работы программы:
 ![Скриншот 1](https://sun9-21.userapi.com/impg/29n5m__YI4cNsznVw065UgLVLwA95eTSH0zyaw/Y1voaKbOeHk.jpg?size=1002x235&quality=96&sign=438d128f1c82c22c87a532ef259e6f80&type=album)
 ![Скриншот 2](https://sun9-15.userapi.com/impg/ZEeJihL5ieEmz_p50p6Sp8O8iiFSaXxioNV0Fw/ZTo_LsVCdHk.jpg?size=998x235&quality=96&sign=9a3d1cdfcc3d3d80cff01c08d0315a45&type=album)
